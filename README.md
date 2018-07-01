@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## to import and run this project from github
+1. git clone https://github.com/Apoorvab23/classification-app.git
+2. cd to the folder in which project has been cloned
+3. run 'npm install' in this folder
+4. run 'ng serve' to run the application
