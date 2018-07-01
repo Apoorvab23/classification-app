@@ -1,0 +1,33 @@
+{
+  "data": [
+  {
+    "custid":1,
+    "deposit":5000,
+    "transaction":[
+    "25-Jun-2018 12:30 PM",
+    "15-Jun-2018 02:30 PM"
+    ],
+    "balance":4000,
+    "classification":""
+  },
+  {
+  "custid":2,
+  "deposit":5000,
+  "transaction":[
+    "01-Jun-2018 12:30PM"
+  ],
+  "balance":1000,
+  "classification":""
+  },
+  {
+    "custid":3,
+    "deposit":5000,
+    "transaction":[
+      "25-July-2018 09:30AM",
+      "25-July-2018 11:30AM"
+    ],
+    "balance":2000,
+    "classification":""
+  }
+]
+}
